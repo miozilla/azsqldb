@@ -1,6 +1,9 @@
 # azsqldb
 docuintel : #mssqldb
 
+## Objective
+To deploy Azure SQL Databass and perform CRUD Operation on relational database (RDB)
+
 ## Deployment: Logistics Database
 
 ![Screenshot002](./azsqldb002.png)
