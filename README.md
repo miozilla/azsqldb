@@ -1,5 +1,5 @@
-# azsqldb
-docuintel : #azure_sql_db #rdbms
+# azsqldb :office:
+azsqldb : #azure_sql_db #rdbms
 
 ## Objective
 To deploy Azure SQL Databass and perform CRUD Operation on relational database (RDB)
