@@ -1,0 +1,29 @@
+# azsqldb :office:
+azsqldb : #azure_sql_db #rdbms
+
+## Objective
+To deploy Azure SQL Databass and perform CRUD Operation on relational database (RDB)
+
+## Deployment: Logistics Database
+
+![Screenshot002](./azsqldb002.png)
+
+![Screenshot003](./azsqldb003.png)
+
+![Screenshot004](./azsqldb004.png)
+
+## CRUD Operation
+
+![Screenshot005](./azsqldb005.png)
+
+![Screenshot006](./azsqldb006.png)
+
+![Screenshot007](./azsqldb007.png)
+
+![Screenshot008](./azsqldb008.png)
+
+![Screenshot009](./azsqldb009.png)
+
+![Screenshot010](./azsqldb010.png)
+
+![Screenshot011](./azsqldb011.png)
