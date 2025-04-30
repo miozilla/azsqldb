@@ -1,13 +1,15 @@
 # azsqldb
 docuintel : #mssqldb
 
-## Deployment
+## Deployment: Logistics Database
 
 ![Screenshot002](./azsqldb002.png)
 
 ![Screenshot003](./azsqldb003.png)
 
 ![Screenshot004](./azsqldb004.png)
+
+## CRUD Operation
 
 ![Screenshot005](./azsqldb005.png)
 
