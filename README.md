@@ -6,24 +6,24 @@ To deploy Azure SQL Databass and perform CRUD Operation on relational database (
 
 ## Deployment: Logistics Database
 
-![Screenshot002](./azsqldb002.png)
+![Screenshot002](./media/azsqldb002.png)
 
-![Screenshot003](./azsqldb003.png)
+![Screenshot003](./media/azsqldb003.png)
 
-![Screenshot004](./azsqldb004.png)
+![Screenshot004](./media/azsqldb004.png)
 
 ## CRUD Operation
 
-![Screenshot005](./azsqldb005.png)
+![Screenshot005](./media/azsqldb005.png)
 
-![Screenshot006](./azsqldb006.png)
+![Screenshot006](./media/azsqldb006.png)
 
-![Screenshot007](./azsqldb007.png)
+![Screenshot007](./media/azsqldb007.png)
 
-![Screenshot008](./azsqldb008.png)
+![Screenshot008](./media/azsqldb008.png)
 
-![Screenshot009](./azsqldb009.png)
+![Screenshot009](./media/azsqldb009.png)
 
-![Screenshot010](./azsqldb010.png)
+![Screenshot010](./media/azsqldb010.png)
 
-![Screenshot011](./azsqldb011.png)
+![Screenshot011](./media/azsqldb011.png)
